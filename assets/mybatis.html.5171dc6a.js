@@ -1,0 +1,1 @@
+const b={key:"v-d9af9fec",path:"/note/mybatis.html",title:"bbbbbbbbbbbbbbbbbbbb",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1649845828e3,contributors:[{name:"FuQiaoChen",email:"452250588@qq.com",commits:2}]},filePathRelative:"note/mybatis.md"};export{b as data};
